@@ -29,7 +29,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
         buttonSignin = (Button) findViewById(R.id.buttonSignin);
         email = (EditText) findViewById(R.id.EmailText);
         password = (EditText) findViewById(R.id.PasswordText);
-        Signup = (TextView) findViewById(R.id.textView4);
+        Signup = (TextView) findViewById(R.id.textView3);
 
         buttonSignin.setOnClickListener(this);
         Signup.setOnClickListener(this);
