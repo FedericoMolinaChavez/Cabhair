@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "590192852622",
+    "firebase_url": "https://cabhair2.firebaseio.com",
+    "project_id": "cabhair2",
+    "storage_bucket": "cabhair2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590192852622:android:22775bcb8a68e8c6",
+        "android_client_info": {
+          "package_name": "com.example.fred.cabhair2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590192852622-6brum4506enubok0f1sos3u8vvh7d6i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fred.cabhair2",
+            "certificate_hash": "50a6da3adde5afa498dd737cdf84649b98ef07a7"
+          }
+        },
+        {
+          "client_id": "590192852622-4m1t21a6e9vqo2sem1hbb14hsgqu7aep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfrg6bdy5J_5T_M-9WEZrdrE1j4FDYBjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590192852622-4m1t21a6e9vqo2sem1hbb14hsgqu7aep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
