@@ -1,5 +1,6 @@
 package com.example.fred.cabhair2;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -50,7 +51,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
         if(v == signin)
         {
-
+            finish();
+            startActivity(new Intent(this,Login.class));
         }
     }
 
